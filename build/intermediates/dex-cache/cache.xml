@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_b952884d7b4f5198c3cf5bc8b77531c658e3bae7.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_49fe26175c607ddb78a4cca330a558302d96bc5d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_86c9840edc0e83ada8d3790e3bd4b996880a0145.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="64214c421f278cc5a15c63ce4ad000e4069bf619">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\instant-run_f16d1eaba70e3f587f45793321b8d7e1aa67d3e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_cb7495b9cf33616a49356b5301c363c529d86443.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_6e3832e836f10972c0325825a90cc9284ec76cb8.jar" />
+    </item>
+    <item
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_f6126d844204af6518b3b626ef25769c1f8a5482.jar" />
+    </item>
+    <item
+        jar="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.1"
+        sha1="eee1fefcf06b35df21d67eafe8ed2c7174c27e94">
+        <dex dex="C:\Users\Abdul Basit Mehtab\AndroidStudioProjects\CalcPlus\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_2f9001edec78349b58e959c97ea8a019ffba31d9.jar" />
+    </item>
+
+</items>
